@@ -3,7 +3,9 @@
     "allow": [
       "WebSearch",
       "Bash(pnpm add:*)",
-      "Bash(pnpm tsc:*)"
+      "Bash(pnpm tsc:*)",
+      "Bash(pnpm remove:*)",
+      "mcp__mastra__mastraDocs"
     ],
     "deny": [],
     "ask": []
